@@ -1,0 +1,7 @@
+org\itson\cliente\Cliente.class
+org\itson\cliente\ObjectFactory.class
+org\itson\cliente\ServWeb.class
+org\itson\cliente\Hello.class
+org\itson\cliente\package-info.class
+org\itson\cliente\ServWeb_Service.class
+org\itson\cliente\HelloResponse.class
